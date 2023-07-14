@@ -1,5 +1,4 @@
-<p align="center">
-# Cloud-Fundamentals
+<p align="center">"Cloud-Fundamentals
 
 <h2>Description</h2>
 The presentation on cloud computing fundamentals using Microsoft Azure covers VM instance creation, cloud storage utilization, VM security, and setting up monitoring alerts. Attendees will gain insights into these topics, including the benefits of VM scalability, cloud storage advantages, security measures, and proactive monitoring using Azure alerts.
